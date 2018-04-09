@@ -1,0 +1,6 @@
+fact_ip.txt
+lin_search_ip.txt
+mat_add_ip.txt
+rev_ip.txt
+roots_of_eqn_ip.txt
+sort_ip.txt

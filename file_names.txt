@@ -1,0 +1,6 @@
+factorial.py
+linear_search.py
+mat_add.py
+reverse.py
+roots_of_eqn.py
+sort.py

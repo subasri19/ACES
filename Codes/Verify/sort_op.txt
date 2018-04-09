@@ -1,0 +1,5 @@
+
+Sorted sequence
+
+[15, 98, 45, 635, 78]
+Press any key to exit
